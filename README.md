@@ -46,7 +46,7 @@ anything past the landing page to work.
 
 ## Layout
 
-```
+```text
 app/                 App Router — one folder per route
 components/          Navbar, Footer, GalaxyBackground, SmoothScroll
 lib/api.ts           Fetch wrapper — auto-retries once on 401 with a refreshed token
